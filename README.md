@@ -23,3 +23,17 @@ Need Help? I've got you covered. I've conveniently created a documentation webpa
 
 ## Why Nova?
 The reason you'd pick Nova over a different bot or method is because my bot was designed and based around technology, meaning that there aren't unnecessary moderation, levels or other modules that don't have anything to do with computing. Nova was designed to keep it simple and easy, but carry out the task just the way you want it. To invite Nova, <a href="https://larkx.xyz/invite.html" target="_blank">click here</a>.
+
+### Stats 
+
+![Profile views](https://komarev.com/ghpvc/?username=Conjuringil&style=flat-square&color=blueviolet)
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.vercel.app/api/?username=Conjuringil&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=Conjuringil&layout=compact&show_icons=true&bg_color=00000000&hide_border=true" />
+    </td>
+  </tr>
+</table>
