@@ -23,3 +23,20 @@ Need Help? I've got you covered. I've conveniently created a documentation webpa
 
 ## Why Nova?
 The reason you'd pick Nova over a different bot or method is because my bot was designed and based around technology, meaning that there aren't unnecessary moderation, levels or other modules that don't have anything to do with computing. Nova was designed to keep it simple and easy, but carry out the task just the way you want it. To invite Nova, <a href="https://larkx.xyz/invite.html" target="_blank">click here</a>.
+
+---
+
+<div align="center">
+	<a href="https://cryhosting.net/">
+		<img src="https://cryhosting.net/static/media/text-logo.d91e8e12.png"/>
+	</a>
+	<br />
+	<br />
+	<b>
+		<a href="https://cryhosting.net/">Sponsored by CryHosting</a>
+	</b>
+	<br>
+	<sub>
+		Minecraft Servers starting from $1/GB
+	</sub>
+</div>
