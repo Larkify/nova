@@ -28,7 +28,7 @@ The reason you'd pick Nova over a different bot or method is because my bot was 
 
 <div align="center">
 	<a href="https://cryhosting.net/">
-		<img src="https://cryhosting.net/static/media/text-logo.d91e8e12.png"/>
+		<img src="https://media.discordapp.net/attachments/784477587559677982/784485402857832498/cryhostingtransparent.png"/>
 	</a>
 	<br />
 	<br />
