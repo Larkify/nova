@@ -38,6 +38,8 @@ The reason you'd pick Nova over a different bot or method is because my bot was 
 	<br>
 	<sub>
 		Minecraft Servers starting from $2/GB
-		UK & US Locations
+	</sub>
+	<sub>
+			UK & US Locations
 	</sub>
 </div>
