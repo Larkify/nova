@@ -6,7 +6,7 @@
   <a href="https://larkx.xyz/discord" target="_blank">
     <img src="https://canary.discord.com/api/guilds/713029382461063232/widget.png" alt="Discord Server" />
   </a>
-  <a href="https://larkx.xyz/index.html" target="_blank">
+  <a href="https://nova.larkx.xyz/index.html" target="_blank">
     <img src="https://img.shields.io/website-up-down-green-red/https/larkx.xyz.svg" alt="Website Status" />
   </a>
 </p>
