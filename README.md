@@ -43,7 +43,8 @@ The reason you'd pick Nova over a different bot or method is because my bot was 
 	<sub>
 			UK & US Locations
 	</sub>
+	<br>
 	<sub>
-			https://images-ext-2.discordapp.net/external/CZTroT7F1FwBbuyi7Ok7p-0dyuuTwz2aqys9AzWT5DE/https/media.discordapp.net/attachments/812665900883771422/813875784451883069/final.gif?width=546&height=68
+			<img src="https://images-ext-2.discordapp.net/external/CZTroT7F1FwBbuyi7Ok7p-0dyuuTwz2aqys9AzWT5DE/https/media.discordapp.net/attachments/812665900883771422/813875784451883069/final.gif?width=546&height=68">
 	</sub>
 </div>
